@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/goplus/gox v1.8.7
-	github.com/qiniu/x v1.11.5
+	github.com/qiniu/x v1.11.9
 	golang.org/x/mod v0.5.1
 	golang.org/x/tools v0.1.8
 )
