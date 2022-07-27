@@ -3,8 +3,8 @@ module github.com/goplus/gop
 go 1.16
 
 require (
-	github.com/goplus/gox v1.8.7
+	github.com/goplus/gox v1.11.21
 	github.com/qiniu/x v1.11.5
-	golang.org/x/mod v0.5.1
-	golang.org/x/tools v0.1.8
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/tools v0.1.11
 )
